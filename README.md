@@ -17,4 +17,4 @@ This script can be used to quickly remove files from your PC
     
 #  Make sure they end on a empty line.
 <div style="text-align:center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png" /></div>
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/SNice.svg/220px-SNice.svg.png)
+
